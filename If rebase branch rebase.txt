@@ -1,0 +1,2 @@
+If rebase_branch rebase to master, rebase_branch will able to see this file.
+
