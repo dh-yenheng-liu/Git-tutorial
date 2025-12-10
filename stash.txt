@@ -1,7 +1,14 @@
+<<<<<<< HEAD
+=======
+ㄔststasj;dgaklds
+>>>>>>> refs/remotes/git_tutorial/master
 
 stashsssssssss
 
 stash
 
+<<<<<<< HEAD
 ㄔststasj;dgaklds
 
+=======
+>>>>>>> refs/remotes/git_tutorial/master
