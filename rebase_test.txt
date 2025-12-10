@@ -1,0 +1,1 @@
+If rebase to master, the file will still in rebase_branch, but rebase_branch will add file from master.
